@@ -1,3 +1,9 @@
+# react-tasks-dnd
+
+React project that utilizes react-beautiful-dnd for ordering of tasks
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

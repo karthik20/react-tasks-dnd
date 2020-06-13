@@ -4,6 +4,10 @@ React project that utilizes react-beautiful-dnd for ordering of tasks
 
 ---
 
+> Sample outcome:
+
+![Gif](src/docs/react-tasks-dnd.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
